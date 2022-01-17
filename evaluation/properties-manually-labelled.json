@@ -1,0 +1,56 @@
+{
+  "area": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasArea",
+    "http://yago-knowledge.org/resource/hasArea"
+  ],
+  "elevation": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasHeight"
+  ],
+  "name": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOS_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSM_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSNI_Name",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasOSI_Name",
+    "http://www.w3.org/2000/01/rdf-schema#label",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasGADM_Name"
+  ],
+  "capacity": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasCapacity"
+  ],
+  "length": [
+    "http://yago-knowledge.org/resource/hasLength"
+  ],
+  "people": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasPopulation",
+    "http://yago-knowledge.org/resource/hasNumberOfPeople"
+  ],
+  "height": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasHeight",
+    "http://yago-knowledge.org/resource/hasHeight"
+  ],
+  "website": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasWebsite"
+  ],
+  "contact": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasEmail",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasAddress",
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasPhone"
+  ],
+  "email": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasEmail"
+  ],
+  "language": [
+    "http://yago-knowledge.org/resource/hasLanguageCode"
+  ],
+  "religion": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasReligion"
+  ],
+  "phone": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasPhone"
+  ],
+  "population": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/hasPopulation",
+    "http://yago-knowledge.org/resource/hasNumberOfPeople"
+  ]
+}

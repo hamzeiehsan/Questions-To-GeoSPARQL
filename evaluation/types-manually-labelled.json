@@ -1,0 +1,300 @@
+{
+  "islands": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Island_area",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_island",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_island",
+    "http://yago-knowledge.org/resource/wordnet_atoll_109210862",
+    "http://yago-knowledge.org/resource/wordnet_island_109316454"
+  ],
+  "airfields": [
+    "http://yago-knowledge.org/resource/wordnet_air_terminal_102693246",
+    "http://yago-knowledge.org/resource/wordnet_air_lane_108492546",
+    "http://yago-knowledge.org/resource/wordnet_airfield_102687992",
+    "http://yago-knowledge.org/resource/wordnet_air_base_102685585",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_aerodrome",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_terminal",
+    "http://yago-knowledge.org/resource/wordnet_airport_102692232"
+  ],
+  "hospitals": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hospital",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_hospital",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_doctors",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_clinic"
+  ],
+  "country council": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/IRL_County_Council",
+    "http://kr.di.uoa.gr/yago2geo/ontology/IRL_City_And_County_Council"
+  ],
+  "train station": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_train_station",
+    "http://yago-knowledge.org/resource/wordnet_railway_station_104049098"
+  ],
+  "lakes": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_water_lake",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_lake",
+    "http://yago-knowledge.org/resource/wordnet_lake_109328904"
+  ],
+  "football stadiums": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_stadium",
+    "http://yago-knowledge.org/resource/wordnet_stadium_104295881",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_landuse_recreation_ground",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_stadium",
+    "http://yago-knowledge.org/resource/wordnet_football_stadium_103379204"
+  ],
+  "shopping mall": [
+    "http://yago-knowledge.org/resource/wordnet_plaza_103965456",
+    "http://yago-knowledge.org/resource/wordnet_mercantile_establishment_103748162",
+    "http://yago-knowledge.org/resource/wordnet_discount_house_103206405"
+  ],
+  "national park": [
+    "http://yago-knowledge.org/resource/wordnet_national_park_108600992",
+    "http://yago-knowledge.org/resource/wordnet_park_108615149",
+    "http://yago-knowledge.org/resource/wordnet_national_monument_103810952",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_nature_reserve",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_nature_reserve"
+  ],
+  "university colleges": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_college",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_university",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_university",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_college"
+  ],
+  "council area": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OS_UnitaryAuthority",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority_Wales",
+    "http://kr.di.uoa.gr/yago2geo/ontology/IRL_City_Council",
+    "http://kr.di.uoa.gr/yago2geo/ontology/IRL_County_Council",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority",
+    "http://kr.di.uoa.gr/yago2geo/ontology/IRL_City_And_County_Council",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OS_UnitaryAuthorityWard"
+  ],
+  "sports centre": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_sports_centre",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_sports_hall",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_sports_hall",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_fitness_centre"
+  ],
+  "reef": [
+    "http://yago-knowledge.org/resource/wordnet_reef_109406793",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_natural_reef"
+  ],
+  "historical monument": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_monument",
+    "http://yago-knowledge.org/resource/wordnet_triumphal_arch_104486054",
+    "http://yago-knowledge.org/resource/wordnet_national_monument_103810952"
+  ],
+  "village": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_village",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_landuse_village_green",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_hamlet",
+    "http://yago-knowledge.org/resource/wordnet_village_108672738",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_village"
+  ],
+  "malls": [
+    "http://yago-knowledge.org/resource/wordnet_plaza_103965456",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_mall"
+  ],
+  "river": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_stream",
+    "http://yago-knowledge.org/resource/wordnet_stream_109448361",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_waterway_river",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_water_river",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_waterway_stream",
+    "http://yago-knowledge.org/resource/wordnet_brook_109229409",
+    "http://yago-knowledge.org/resource/wordnet_river_109411430"
+  ],
+  "town": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_place_town",
+    "http://yago-knowledge.org/resource/wordnet_town_108665504",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_city",
+    "http://yago-knowledge.org/resource/wordnet_township_108672199",
+    "http://yago-knowledge.org/resource/wordnet_city_108524735",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_town"
+  ],
+  "capital": [
+    "http://yago-knowledge.org/resource/wordnet_capital_108518505"
+  ],
+  "restaurants": [
+    "http://yago-knowledge.org/resource/wordnet_pizzeria_103952576",
+    "http://yago-knowledge.org/resource/wordnet_cabaret_102931417",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_restaurant"
+  ],
+  "airfield": [
+    "http://yago-knowledge.org/resource/wordnet_air_terminal_102693246",
+    "http://yago-knowledge.org/resource/wordnet_air_lane_108492546",
+    "http://yago-knowledge.org/resource/wordnet_airfield_102687992",
+    "http://yago-knowledge.org/resource/wordnet_air_base_102685585",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_aerodrome",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_terminal",
+    "http://yago-knowledge.org/resource/wordnet_airport_102692232"
+  ],
+  "car park": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_parking",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_parking_space"
+  ],
+  "outdoor seating": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_food_court",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_outdoor_seating"
+  ],
+  "churches": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_church"
+  ],
+  "airport": [
+    "http://yago-knowledge.org/resource/wordnet_air_terminal_102693246",
+    "http://yago-knowledge.org/resource/wordnet_airfield_102687992",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_aerodrome",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_aeroway_terminal",
+    "http://yago-knowledge.org/resource/wordnet_airport_102692232"
+  ],
+  "underground station": [
+    "http://yago-knowledge.org/resource/wordnet_service_station_104175859",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_railway_station",
+    "http://yago-knowledge.org/resource/wordnet_subway_station_104349077",
+    "http://yago-knowledge.org/resource/wordnet_station_104306080"
+  ],
+  "playground": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_playground"
+  ],
+  "hotel": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_hostel",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_hotel",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_hotel"
+  ],
+  "bus station": [
+    "http://yago-knowledge.org/resource/wordnet_bus_terminal_102926288",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_bus_station"
+  ],
+  "countries": [
+    "http://yago-knowledge.org/resource/wordnet_country_108544813",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Kingdom",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_COUNTRY",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSNI_Country"
+  ],
+  "roads": [
+    "http://yago-knowledge.org/resource/wordnet_roadway_104097622",
+    "http://yago-knowledge.org/resource/wordnet_road_104096066",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_highway_road",
+    "http://yago-knowledge.org/resource/wordnet_path_108616311"
+  ],
+  "parkings": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_garage",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_parking",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_parking",
+    "http://yago-knowledge.org/resource/wordnet_backyard_102772197",
+    "http://yago-knowledge.org/resource/wordnet_pull-off_104020744"
+  ],
+  "site": [
+    "http://yago-knowledge.org/resource/wordnet_facility_103315023",
+    "http://yago-knowledge.org/resource/wordnet_center_108523483",
+    "http://yago-knowledge.org/resource/wordnet_site_108651247"
+  ],
+  "borough": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_borough",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough_City",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OS_LondonBorough",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough",
+    "http://yago-knowledge.org/resource/wordnet_borough_108540532"
+  ],
+  "city": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough_city",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_Borough_City",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District_City",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_city",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_City",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_district_city",
+    "http://yago-knowledge.org/resource/wordnet_city_108524735",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Metropolitan_borough_city"
+  ],
+  "tourist attraction": [
+    "http://yago-knowledge.org/resource/wordnet_resort_area_108640739",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_beach_resort",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_water_park",
+    "http://yago-knowledge.org/resource/wordnet_lookout_103688943"
+  ],
+  "gas station": [
+    "http://yago-knowledge.org/resource/wordnet_gasoline_station_103425092"
+  ],
+  "campuses": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_university",
+    "http://yago-knowledge.org/resource/wordnet_campus_108518374"
+  ],
+  "amusement park": [
+    "http://yago-knowledge.org/resource/wordnet_theme_park_108662914",
+    "http://yago-knowledge.org/resource/wordnet_amusement_park_108494231",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_theme_park",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_amusement_arcade",
+    "http://yago-knowledge.org/resource/wordnet_amusement_arcade_102706806"
+  ],
+  "medieval castles": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_tower",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_monastery",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_ruins",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_castle_wall",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_historic_castle"
+  ],
+  "municipality": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_London_borough_city",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District_City",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_city",
+    "http://yago-knowledge.org/resource/wordnet_municipality_108626283",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_district_city",
+    "http://yago-knowledge.org/resource/wordnet_city_108524735"
+  ],
+  "modern art museums": [
+    "http://yago-knowledge.org/resource/wordnet_gallery_103412058",
+    "http://yago-knowledge.org/resource/wordnet_science_museum_104147364",
+    "http://yago-knowledge.org/resource/wordnet_museum_103800563",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_tourism_museum"
+  ],
+  "county": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_1stOrder_AdministrativeUnit",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_County",
+    "http://yago-knowledge.org/resource/wordnet_county_108546183",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_authority_county",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_County",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OS_County",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Administrative_County"
+  ],
+  "non metropolitan counties": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_District",
+    "http://kr.di.uoa.gr/yago2geo/ontology/GADM_Unitary_Authority_County"
+  ],
+  "university": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_college",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_university",
+    "http://yago-knowledge.org/resource/wordnet_campus_108518374",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_college",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_building_university"
+  ],
+  "mountains": [
+    "http://yago-knowledge.org/resource/wordnet_highland_109302616",
+    "http://yago-knowledge.org/resource/wordnet_mountain_109359803",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_natural_ridge",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_natural_peak"
+  ],
+  "pub": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_pub",
+    "http://yago-knowledge.org/resource/wordnet_barroom_102796995"
+  ],
+  "cafe": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_coffee",
+    "http://yago-knowledge.org/resource/wordnet_bakery_102776631",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_cafe",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_organic",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_amenity_restaurant",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_bakery"
+  ],
+  "park": [
+    "http://yago-knowledge.org/resource/wordnet_park_108615149",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_leisure_park",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_park",
+    "http://yago-knowledge.org/resource/wordnet_park_108615374"
+  ],
+  "department store": [
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_supermarket",
+    "http://yago-knowledge.org/resource/wordnet_department_store_103176763",
+    "http://yago-knowledge.org/resource/wordnet_grocery_store_103461385",
+    "http://kr.di.uoa.gr/yago2geo/ontology/OSM_shop_variety_store"
+  ]
+}

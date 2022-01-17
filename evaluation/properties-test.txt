@@ -1,0 +1,15 @@
+area
+elevation
+name
+capacity
+length
+people
+height
+website
+contact
+email
+language
+religion
+age
+phone number
+website
