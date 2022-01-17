@@ -1,4 +1,4 @@
-# Translating Place-Related Questions to GeoSPARQL Queries
+# Translating Place-Related Questions to GeoSPARQL Queries (TheWebConf 2022)
 
 ## Abstract
 Many place-related questions can only be answered by complex spatial reasoning, a task poorly supported by factoid question retrieval. Such reasoning using combinations of spatial and non-spatial criteria pertinent to place-related questions is increasingly possible on linked data knowledge bases. Yet, to enable question answering based on linked knowledge bases, natural language questions must first be re-formulated as formal queries. Here, we first present an enhanced version of YAGO2geo, the geospatially-enabled variant of the YAGO2 knowledge base, by linking and adding more than one million places from OpenStreetMap data to YAGO2. We then propose a novel approach to translate the place-related questions into logical representations, theoretically grounded in the _core concepts of spatial information_. Next, we use a dynamic template-based approach to generate fully executable GeoSPARQL queries from the logical representations. We test our approach using the Geospatial Gold Standard dataset and report substantial improvements over existing methods.
@@ -41,6 +41,8 @@ Run the web service for query generation:
 ```python
 python query_generator_service.py
 ```
+
+Note that you need GeoSPARQL and SOLR servers running (check the dataset folder for creating solr indexes and ttl files)
 
 Note, that to generate executable queries you should make sure that Apache Solr is working using the solr_index.
 To generate answers, we used Apache GeoSARQL Fuseki and loaded Yago2, Yago2Geo and our dataset. Then executable queries can be used to retrieve the answers.
