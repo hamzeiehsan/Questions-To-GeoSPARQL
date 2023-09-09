@@ -42,6 +42,9 @@ Run the web service for query generation:
 python query_generator_service.py
 ```
 
+## Demo
+If you want to see the demo please check: ```demo.mov```
+
 Note that you need GeoSPARQL and SOLR servers running (check the dataset folder for creating solr indexes and ttl files)
 To generate executable queries you should make sure that Apache Solr is working using the solr_index.
 To generate answers, we used Apache GeoSARQL Fuseki and loaded Yago2, Yago2Geo and our dataset. Then executable queries can be used to retrieve the answers.
